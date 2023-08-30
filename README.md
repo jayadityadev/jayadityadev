@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayadityadev
-- 👀 I’m interested in "Python in Networks".
+- 👀 I’m interested in "Cyber Sec".
 - 🌱 I’m currently learning Python language.
 - 📫 How to reach me ...
 
