@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jayadityadev
-- 👀 I’m interested in "Cyber Sec".
-- 🌱 I’m currently learning Python language.
-- 📫 How to reach me ...
+- 👀 I’m interested in CyberSecurity, Networking, Backend and CLI Programs Development.
+- 💻 Proficient in Python and Shell Scripting along with using various Linux distros.
+- 🌱 I’m currently learning Rust and Golang.
+- 📫 Email me @ jayadityadev26@outlook.com
 
 <!---
 jayadityadev/jayadityadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
