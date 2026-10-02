@@ -12,7 +12,6 @@
 
 ### ⚡ Key Highlights & Recognitions
 
-- 📄 **IEEE Camera-Ready Research Paper**: Authored publication-grade engineering and quantitative architecture for regime-adaptive portfolio modeling (*QuantNiti*).
 - 🏆 **Global Top 5% on TryHackMe**: Extensive hands-on background in offensive security, network exploitation, privilege escalation, and Linux environments.
 - 🥈 **2nd Prize Hackathon Winner**: Architected the API contracts, database schemas, and FastAPI orchestration layer for *QuizGenAI*.
 
@@ -22,7 +21,6 @@
 
 | Project | Primary Domain | Core Architecture & Stack | Key Achievements |
 | :--- | :--- | :--- | :--- |
-| [**QuantNiti**](https://github.com/jayadityadev/QuantNiti) | Quantitative Intelligence & ML | Python, FastAPI, Next.js, uv, Gaussian HMM, XGBoost | Full-stack regime-adaptive trading platform with IEEE paper & LLM analyst |
 | [**BrainTumorClassification**](https://github.com/jayadityadev/BrainTumorClassification) | Computer Vision & Medical AI | Python, TensorFlow, Grad-CAM, Docker, Colab T4 | Deep learning CE-MRI scan classifier with visual explainability localization |
 | [**Guardian-AI**](https://github.com/jayadityadev/Guardian-AI) | Threat Assessment & Cloud | Python, FastAPI, Modal Cloud, Whisper, Alembic | Real-time threat detection system with serverless ML deployment pipelines |
 | [**QuizGenAI**](https://github.com/jayadityadev/QuizGenAI) | GenAI & Orchestration | FastAPI, React, SQLite, Pydantic, LLM APIs | 🥈 **2nd Prize Winner** — API-first assessment engine with structured JSON schemas |
