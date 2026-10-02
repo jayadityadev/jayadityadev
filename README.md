@@ -24,7 +24,6 @@
 | [**BrainTumorClassification**](https://github.com/jayadityadev/BrainTumorClassification) | Computer Vision & Medical AI | Python, TensorFlow, Grad-CAM, Docker, Colab T4 | Deep learning CE-MRI scan classifier with visual explainability localization |
 | [**Guardian-AI**](https://github.com/jayadityadev/Guardian-AI) | Threat Assessment & Cloud | Python, FastAPI, Modal Cloud, Whisper, Alembic | Real-time threat detection system with serverless ML deployment pipelines |
 | [**QuizGenAI**](https://github.com/jayadityadev/QuizGenAI) | GenAI & Orchestration | FastAPI, React, SQLite, Pydantic, LLM APIs | 🥈 **2nd Prize Winner** — API-first assessment engine with structured JSON schemas |
-| [**neetcode-submissions**](https://github.com/jayadityadev/neetcode-submissions) | Algorithms & Data Structures | Java | 50+ curated, continuous DSA solutions covering trees, graphs, DP & two-pointers |
 
 ---
 
